@@ -1,0 +1,27 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   README.md
+#	new file:   eslint.config.js
+#	new file:   index.html
+#	new file:   package-lock.json
+#	new file:   package.json
+#	new file:   postcss.config.js
+#	new file:   public/vite.svg
+#	new file:   src/App.css
+#	modified:   src/App.jsx
+#	new file:   src/assets/react.svg
+#	modified:   src/components/Header/Header.jsx
+#	new file:   src/components/Header/imagem/airplane.png
+#	modified:   src/components/ListaDeViagens/ListaViagens.jsx
+#	modified:   src/components/items/Items.jsx
+#	new file:   src/index.css
+#	new file:   src/main.jsx
+#	new file:   tailwind.config.js
+#	new file:   trabalho.docx
+#	new file:   vite.config.js
+#
